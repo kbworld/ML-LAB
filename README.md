@@ -1,3 +1,3 @@
 # ML-LAB
 
-hard to study about ML
+try to study ML hard 
